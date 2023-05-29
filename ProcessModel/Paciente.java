@@ -20,6 +20,7 @@ public class Paciente {
     /** 
      * @param args
      * @throws Exception
+     * @param st
      */
     public static void main(String[] args) throws Exception {
         Paciente app = new Paciente();
